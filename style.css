@@ -1,0 +1,46 @@
+body{
+text-align:center;
+  
+background-color:background: rgb(238,174,202);
+background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(57,109,171,1) 100%);
+}
+img{
+  width:250px;
+  border-radius:100px;
+}
+  h1}
+  text-shadow:2px 2px #AA00FF;
+  text-size:30px;
+} 
+#bio
+padding:20px;
+font-size:20px;
+text-align:centre;
+.menu{
+list-style: none;
+font-family:cursive;
+float:right;
+top:10px;
+right:30px;
+cursor: pointer;
+color:black;
+}
+.links {
+    float: left;
+    color: white;
+    padding:8px;
+    font-family:fantasy;
+    font-size: 20px;
+}
+.links:hover {
+    background-color:dodgerblue;
+    
+}
+#About{
+    text-align: center;
+}
+#My work{
+  width: 250px;
+    height: 250px;
+    
+}
